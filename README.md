@@ -2,7 +2,7 @@
 
 - 打开roscore
 
-- 运行 roslaunch AVG_simulation car.launch
+- 运行 roslaunch AGV_simulation car.launch
 
 - 发布 cmd_vel 话题消息控制小车运动（指令或摇杆）
 
